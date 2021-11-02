@@ -33,6 +33,7 @@ const phrases = [
     'Takeaway',
     'Tighten Up',
     'Wordsmith',
+    'Snap the line',
 ];
 
 export default phrases;
